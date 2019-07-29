@@ -5,3 +5,6 @@
 //if ( ! defined( 'BF_DEV_MODE' ) ) {
 //	define( 'BF_DEV_MODE', TRUE );
 //}
+
+
+//từ máy ở nhà sửa
